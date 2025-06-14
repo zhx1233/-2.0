@@ -17,3 +17,10 @@
 * 亮度调节
 * 伽马校正
 * 椒盐噪声
+
+
+项目参考：
+https://blog.csdn.net/xuehai996/article/details/134253730
+
+
+https://blog.csdn.net/xuehai996/article/details/134253730
