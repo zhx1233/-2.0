@@ -3,6 +3,7 @@
 * opencv-python
 * matplotlib
 * pyqt5
+在pycharm中安装最新版本即可
 
 ## 已实现功能
 * 图像旋转
