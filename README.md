@@ -1,4 +1,7 @@
 # -2.0
+
+使用opencv与pyqt5实现的图像处理程序
+
 # Dependency
 * opencv-python
 * matplotlib
